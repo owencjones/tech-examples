@@ -43,7 +43,7 @@ A technical test for a previous job, the task was to work out the background col
 
 #### [Restaurant Listings Test](https://bitbucket.org/seajones/kukd-tech-test)
 
-This was a tech test sprung on me at the end of an interview.  It took 6 hours to do, and the company involved expected me to stay on premises to do it, so the solution works, but is a little rough and ready.  I was ultimately offered the job, but declined.
+This was a tech test sprung on me at the end of an interview.  It took 6 hours to do, and the company involved expected me to stay on premises to do it, so the solution works, but is a little rough and ready.  I was ultimately offered the job, but declined.  The solution was written a few years ago, so uses older Javascript paradigms.
 
 ### Tooling and scripts
 
