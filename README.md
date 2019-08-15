@@ -9,6 +9,8 @@ This repo includes a group of different examples of code, in various languages (
 - Pretty quick and hacky tooling code and utilities
 - Academically interesting examples of Computer Science related concepts
 
+## Contents <!-- omit in toc -->
+
 - [Production code examples](#production-code-examples)
   - [Office for National Statistics, Response Operations UI](#office-for-national-statistics-response-operations-ui)
   - [Office for National Statistics, RAS Frontstage](#office-for-national-statistics-ras-frontstage)
