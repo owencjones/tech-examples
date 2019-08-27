@@ -20,6 +20,7 @@ This repo includes a group of different examples of code, in various languages (
 - [Tooling and scripts](#tooling-and-scripts)
   - [PartyHammer](#partyhammer)
 - [Academic code examples](#academic-code-examples)
+  - [Javascript Base64 Encoder](#javascript-base64-encoder)
   - [JSQuine](#jsquine)
   - [Euler in C](#euler-in-c)
 
@@ -58,6 +59,8 @@ Also includes a tool that produces metrics in Markdown format for use.
 It was a quick and hacky script to make, so it lacks production features like tests.
 
 ### Academic code examples
+
+#### [Javascript Base64 Encoder](https://github.com/owencjones/jsBase64)
 
 #### [JSQuine](https://github.com/owencjones/jsquine)
 
