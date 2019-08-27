@@ -20,7 +20,8 @@ This repo includes a group of different examples of code, in various languages (
 - [Tooling and scripts](#tooling-and-scripts)
   - [PartyHammer](#partyhammer)
 - [Academic code examples](#academic-code-examples)
-  - [Javascript Base64 Encoder](#javascript-base64-encoder)
+  - [Javascript Base64 Encoder/Decoder](#javascript-base64-encoderdecoder)
+  - [Javascript Rot13 Encoder/Decoder](#javascript-rot13-encoderdecoder)
   - [JSQuine](#jsquine)
   - [Euler in C](#euler-in-c)
 
@@ -60,7 +61,17 @@ It was a quick and hacky script to make, so it lacks production features like te
 
 ### Academic code examples
 
-#### [Javascript Base64 Encoder](https://github.com/owencjones/jsBase64)
+#### [Javascript Base64 Encoder/Decoder](https://github.com/owencjones/jsBase64)
+
+Wrote this because Base64 encoding is a nice little challenge in any language.  It's a straightforward principle, but the practicalities of it can pose some challenges, and it is also a good way to explore the different data types of a language, as it involves using strings, characters, integers, binary bytes, and bits.
+
+This one is dependency free, except for the test runner, `mocha` which I used to write extensive unit tests.  It's also almost entirely made up of pure functions, so is a good demo of functional programming.
+
+#### [Javascript Rot13 Encoder/Decoder](https://github.com/owencjones/jsRot13)
+
+Spurred on by the Base64 encoder/decoder, I wanted to write something that could have a unit test system that was _also_ not a dependency.  The encoding of Rot13 was basically irrelevant, and I wrote this to explore writing a very small unit test runner, so have a look at that.
+
+Next on the list is to move the unit test runner over to the Base64 project.
 
 #### [JSQuine](https://github.com/owencjones/jsquine)
 
